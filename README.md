@@ -1,6 +1,6 @@
 ## ✨ Website ucapan ulang tahun
 
-[demo](https://hbd-jubed.netlify.app/)
+[demo](https://xzaki114-ux.github.io/ucapan-ultah/)
 
 ## 🚀 Quick start
 
