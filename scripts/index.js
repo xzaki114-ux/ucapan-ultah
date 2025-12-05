@@ -29,4 +29,3 @@ function validateForm() {
       confirmButtonColor: "#ff7675",
     });
   }
-}
