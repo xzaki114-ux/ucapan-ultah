@@ -6,11 +6,11 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
 });
 
 function validateForm() {
-  var username = document.getElementById("username").value;
-  var password = document.getElementById("password").value;
+  var username = document.getElementById("Rawr").value;
+  var password = document.getElementById("Rawr").value;
 
   //validasi username dan password, username dan password bisa diganti sesuai keinginan
-  if (username === "Rawr" && password === "Rawr") {
+  if (username === "User" && password === "User") {
     Swal.fire({
       icon: "success",
       title: "Login berhasil!",
