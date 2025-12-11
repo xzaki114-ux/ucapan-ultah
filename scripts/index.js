@@ -8,7 +8,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
 function validateForm() {
   var username = document.getElementById("username").value;
   var password = document.getElemntById("password").value;
-  var User = "Rawr";
+  var User = "Zaki";
 
   //validasi username dan password, username dan password bisa diganti sesuai keinginan
   if (username === "User" && password === "User") {
